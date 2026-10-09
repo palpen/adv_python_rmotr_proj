@@ -7,3 +7,8 @@ Links to forked files of projects I completed in the course:
 4. [Magic Methods](https://github.com/palpen/pyp-w2-star-wars-magic-methods)
 5. [Relational Databases](https://github.com/palpen/pyp-u5-c1-gists-database)
 6. [API using Flask](https://github.com/palpen/pyp-u6-c2-twitter-api)
+
+
+## License
+
+Original work is licensed under the [MIT License](LICENSE), Copyright (c) 2026 Palermo Penano. The grant is limited to the work identified in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md); the exclusions and separate third-party terms there apply.
